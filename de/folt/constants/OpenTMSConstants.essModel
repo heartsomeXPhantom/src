@@ -1,0 +1,18 @@
+[Box: ::de.folt.rpc.services - ::de.folt.rpc.services::RPCMessage]
+X=265
+Y=40
+
+[Box: ::de.folt.rpc.services - ::de.folt.rpc.services::TranslationToolsServices]
+X=60
+Y=40
+
+[Box: ::de.folt.rpc.services - ::de.folt.rpc.webserver::ConfigurationHandler]
+X=20
+Y=252
+
+[Diagram: ::de.folt.rpc.services]
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowAssoc=1
+
